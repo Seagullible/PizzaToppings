@@ -1,0 +1,22 @@
+{
+  "name": "pizzatoppings",
+  "version": "1.0.0",
+  "description": "An app to help you decide on pizza toppings as a group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pizza",
+    "toppings",
+    "what",
+    "do",
+    "you",
+    "want"
+  ],
+  "author": "Natalie Lockhart",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
